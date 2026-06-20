@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Rakib 👋
 
-<!--
-**Rakib-webdev-code/Rakib-webdev-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Full Stack Web Developer
 
-Here are some ideas to get you started:
+I'm passionate about web development and currently learning modern technologies to build fast, scalable, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Tailwind CSS
+- Next.js
+- BetterAuth
+- Node.js
+- MongoDB
+- Mongoose
+- Git & GitHub
+- AI Mindset Engineering
+- AI-Assisted Coding
+
+## 🎯 Goals
+
+- Become a Professional Full Stack Developer
+- Build Real-World Projects
+- Contribute to Open Source
+- Master Modern Web Technologies
+
+## 🛠️ Tech Stack
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Tailwind CSS
+- Next.js
+
+Backend:
+- Node.js
+- MongoDB
+- Mongoose
+
+Tools:
+- Git
+- GitHub
+- AI-Assisted Development
+
+## 🌱 Learning Journey
+
+Every day I learn something new and improve my development skills by building projects and exploring modern technologies.
+
+---
+⭐ Thanks for visiting my profile!
+
