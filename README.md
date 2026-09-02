@@ -1,3 +1,16 @@
+img src="./assets/banner.png" alt="Md. Rakib banner" width="100%" />
+
+</div>
+
+<h1 align="center">🔗 Hi 👋, I'm Md. Rakib</h1>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
+
+<p align="center">
+📧 <a href="mailto:tamimislam100100@gmail.com">tamimislam100100@gmail.com</a> &nbsp;|&nbsp;
+🌐 <a href="https://rakib-webdev-code.github.io/About-Me/">Portfolio</a> &nbsp;|&nbsp;
+📍 Joypurhat, Rajshahi, Bangladesh
+</p>
+
 <br/>
 
 ---
