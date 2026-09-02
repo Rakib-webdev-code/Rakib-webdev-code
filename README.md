@@ -1,4 +1,3 @@
-img src="./assets/banner.png" alt="Md. Rakib banner" width="100%" />
 
 </div>
 
