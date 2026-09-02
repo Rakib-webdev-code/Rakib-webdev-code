@@ -1,25 +1,4 @@
-# Hi, I'm Rakib 👋
-
-## 🚀 Aspiring Full Stack Web Developer
-
-I'm passionate about web development and currently learning modern technologies to build fast, scalable, and user-friendly web applications.
-
-## 📚 Currently Learning
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Tailwind CSS
-- Next.js
-- BetterAuth
-- Node.js
-- MongoDB
-- Mongoose
-- Git & GitHub
-- AI Mindset Engineering
--👨‍💻 About Me
+👨‍💻 About Me
 
 I'm a dedicated learner and problem solver who loves turning ideas into real-world applications. I enjoy building new projects, exploring new technologies, and continuously improving my skills on my journey to becoming a professional developer.
 
