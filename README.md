@@ -80,28 +80,34 @@ contribute to meaningful projects and open source.
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rakib-webdev-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Md. Rakib GitHub Stats"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-webdev-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Md. Rakib Top Languages"
     height="180"
   />
+
 </p>
 
 <br />
 
 <!-- ===================== GITHUB STREAK ===================== -->
 
+<h2>🔥 GitHub Streak</h2>
+
 <p align="center">
+
   <img
-    src="https://streak-stats.demolab.com?user=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Md. Rakib GitHub Streak"
   />
+
 </p>
 
 <br />
@@ -137,7 +143,7 @@ contribute to meaningful projects and open source.
 
 <br />
 
-<!-- ===================== PINNED REPOSITORIES ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 <h2>📌 Featured Projects</h2>
 
@@ -159,7 +165,7 @@ skills, projects, and learning journey.
 
 <p>
 <a href="https://rakib-webdev-code.github.io/About-Me/">
-  🔗 Live Demo
+🔗 Live Demo
 </a>
 </p>
 
@@ -192,12 +198,15 @@ web development technologies while building real-world projects.
 <p align="center">
 
 🚀 <b>Become a Professional Full Stack Developer</b>
+
 <br /><br />
 
 💻 <b>Build Real-World Projects</b>
+
 <br /><br />
 
 🌍 <b>Contribute to Open Source</b>
+
 <br /><br />
 
 🧠 <b>Master Modern Web Technologies</b>
@@ -206,23 +215,29 @@ web development technologies while building real-world projects.
 
 <br />
 
-<!-- ===================== LOCATION ===================== -->
+<!-- ===================== LOCATION & CONTACT ===================== -->
 
-<h2>📍 About Me</h2>
+<h2>📍 Location & Contact</h2>
 
 <p align="center">
 
 🇧🇩 <b>Joypurhat, Rajshahi, Bangladesh</b>
 
-<br />
+<br /><br />
 
 📧 <b>tamimislam100100@gmail.com</b>
+
+<br /><br />
+
+🌐 <a href="https://rakib-webdev-code.github.io/About-Me/">
+<b>Portfolio</b>
+</a>
 
 </p>
 
 <br />
 
-<!-- ===================== QUOTE ===================== -->
+<!-- ===================== DEVELOPER MINDSET ===================== -->
 
 <h2>💭 Developer Mindset</h2>
 
@@ -231,6 +246,8 @@ web development technologies while building real-world projects.
     "Learn. Build. Improve. Repeat."
   </i>
 </p>
+
+<br />
 
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
