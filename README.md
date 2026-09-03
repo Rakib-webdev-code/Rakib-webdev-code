@@ -1,128 +1,210 @@
+<div align="center">
+
+# 👋 Hi, I'm <span style="color:#8B5CF6;">Md. Rakib</span>
+
+### 🚀 ASPIRING FULL STACK WEB DEVELOPER
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+TypeScript+Developer;Future+Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+%26+Improving" />
+
+<br>
+
+<a href="https://rakib-webdev-code.github.io/About-Me/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://github.com/rakib-webdev-code">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<h1 align="center">🔗 Hi 👋, I'm Md. Rakib</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+---
 
-<p align="center">
-📧 <a href="mailto:tamimislam100100@gmail.com">tamimislam100100@gmail.com</a> &nbsp;|&nbsp;
-🌐 <a href="https://rakib-webdev-code.github.io/About-Me/">Portfolio</a> &nbsp;|&nbsp;
+<table>
+<tr>
+
+<td width="28%" valign="top">
+
+<div align="center">
+
+<img src="https://github.com/rakib-webdev-code.png" width="180" style="border-radius:50%;" />
+
+# Md. Rakib
+
+### `rakib-webdev-code`
+
+🚀 **Aspiring Full Stack Web Developer**
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm passionate about web development and currently learning modern technologies to build fast, scalable, and user-friendly web applications.
+
+---
+
 📍 Joypurhat, Rajshahi, Bangladesh
-</p>
 
-<br/>
+📧 `tamislam100100@gmail.com`
 
----
+🌐 [Portfolio](https://rakib-webdev-code.github.io/About-Me/)
 
-- 👋 Hi, I'm **@Rakib-webdev-code**
-- 🚀 I'm currently learning **Full Stack Web Engineering (Batch 14)** at Programming Hero
-- 🌱 I'm currently working on **React, TypeScript and Next.js** for frontend development
-- 💻 Using **Node.js, Express.js, MongoDB and Mongoose** for the backend
-- 📚 I'm currently learning **BetterAuth, ShadCN, Hero UI, Stripe, SSLCommerz and Testing**
-- 💬 Ask me about **Full-Stack development (React, Next.js, Node.js, Express, MongoDB)**
-- 🌐 Explore my **[Portfolio](https://rakib-webdev-code.github.io/About-Me/)**
-- 📫 Feel free to reach me out via **[Email](mailto:tamimislam100100@gmail.com)**
+<br>
 
----
+<div align="center">
 
-### 🔗 Follow Me On Socials
+<a href="https://github.com/rakib-webdev-code">
+<img src="https://img.shields.io/badge/Follow-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p>
-<!-- নিজের সোশাল লিংকগুলো এখানে বসিয়ে দিও, href="#" এর জায়গায় আসল লিংক দিতে হবে -->
-<a href="https://github.com/Rakib-webdev-code" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:tamimislam100100@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
-</p>
+</div>
+
+</td>
+
+<td width="72%" valign="top">
+
+# 🟣 ABOUT ME
+
+I'm a dedicated learner and problem solver who loves turning ideas into real-world applications.
+
+I enjoy building projects, exploring new technologies, and continuously improving my skills to become a professional Full Stack Developer.
 
 ---
 
-### 🧰 Technology Stack
+# 🚀 CURRENTLY WORKING ON
 
-**Languages:**
+- 🟢 Learning **React.js** and building modern UI
+- 🟢 Exploring **Next.js** and Server Side Rendering
+- 🟢 Practicing **TypeScript** and improving code quality
+- 🟢 Building real-world projects
+- 🟢 Improving Data Structures & Algorithms
+- 🟢 Strengthening Git & GitHub workflow
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+---
 
-**Frontend:**
+# 💻 TECHNOLOGY STACK
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs" />
-</p>
-
-**Backend:**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://img.shields.io/badge/Modular_Pattern-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API_Integration-black?style=for-the-badge" />
-</p>
-
-**Database & Model:**
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mongoose" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs" />
 </p>
 
-**UI Libraries:**
+### ⚙️ Backend & Database
 
 <p>
-<img src="https://img.shields.io/badge/Hero_UI-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-**Auth & Security:**
-
-<p>
-<img src="https://img.shields.io/badge/BetterAuth-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role_Based_Access_Control-red?style=for-the-badge" />
-</p>
-
-**Advanced Concepts:**
-
-<p>
-<img src="https://img.shields.io/badge/DOM_vs_BOM-informational?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Mindset_Development-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Assisted_Coding-8A2BE2?style=for-the-badge" />
-</p>
-
-**Payment & Testing:**
-
-<p>
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/SSLCommerz-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Testing-2E8B57?style=for-the-badge" />
-</p>
-
-**Tools & Technologies:**
+### 🛠️ Tools & Others
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
+</td>
 
-### 📊 GitHub Statistics & Analysis
-
-**GitHub Contributions:**
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib-webdev-code&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
-**GitHub Statistics:**
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rakib-webdev-code&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib-webdev-code&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-webdev-code&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
+</tr>
+</table>
 
 ---
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
+# 📊 GITHUB STATS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rakib-webdev-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-webdev-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-webdev-code&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://rakib-webdev-code.github.io/About-Me/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-8B5CF6?style=for-the-badge" />
+</a>
+
+<a href="mailto:tamislam100100@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/rakib-webdev-code">
+<img src="https://img.shields.io/badge/🐙%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 📌 PINNED REPOSITORIES
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌍 Tourism Website
+
+A responsive tourism website built with HTML, CSS and JavaScript.
+
+### 🛠️ Technologies
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/rakib-webdev-code">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✅ Task Manager App
+
+A task management application built with React, TypeScript and Tailwind CSS.
+
+### 🛠️ Technologies
+
+`React` `TypeScript` `Tailwind CSS`
+
+<br>
+
+<a href="https://github.com/rakib-webdev-code">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 MY DEVELOPMENT JOURNEY
+
+```text
+HTML & CSS                 ████████████████████ 100%
+JavaScript                 ████████████████████ 100%
+TypeScript                 ███████████████░░░░░  75%
+React.js                   ████████████░░░░░░░░  60%
+Tailwind CSS               ████████████████░░░░  80%
+Next.js                    ██████░░░░░░░░░░░░░░  30%
+Node.js                    ████░░░░░░░░░░░░░░░░  20%
+MongoDB                    ███░░░░░░░░░░░░░░░░░  15%
