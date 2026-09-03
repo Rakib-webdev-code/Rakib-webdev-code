@@ -1,107 +1,181 @@
-<div align="center">
+<!-- ===================== BANNER ===================== -->
 
-# 👋 Hi, I'm <span style="color:#8B5CF6;">Md. Rakib</span>
+<p align="center">
+  <img src="./banner.png" alt="Md. Rakib - Full Stack Web Developer" width="100%" />
+</p>
 
-### 🚀 ASPIRING FULL STACK WEB DEVELOPER
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+TypeScript+Developer;Future+Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+%26+Improving" />
+<!-- ===================== CURRENTLY WORKING ON ===================== -->
 
-<br>
+<h2 align="center">🚀 Currently Working On</h2>
 
-<a href="https://rakib-webdev-code.github.io/About-Me/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Practicing-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Learning-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Practicing-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<a href="https://github.com/rakib-webdev-code">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  🌱 Learning React and building modern user interfaces
+  <br />
+  💻 Building real-world projects to improve my development skills
+  <br />
+  📘 Practicing TypeScript and writing cleaner code
+  <br />
+  🎨 Improving responsive UI with Tailwind CSS
+  <br />
+  🔧 Strengthening Git & GitHub workflow
+  <br />
+  🧠 Exploring AI Mindset Engineering and AI-Assisted Coding
+</p>
 
-</div>
+<br />
 
----
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I'm an aspiring Full Stack Web Developer passionate about building
+responsive, user-friendly, and modern web applications.
+</p>
+
+<p>
+I'm currently learning modern web technologies and improving my
+problem-solving skills by practicing and building real-world projects.
+My goal is to become a professional Full Stack Developer and
+contribute to meaningful projects and open source.
+</p>
+
+<br />
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Frontend</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs" />
+</p>
+
+<h3>Backend & Database</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<h3>Tools & Technologies</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<br />
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rakib-webdev-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Md. Rakib GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-webdev-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Md. Rakib Top Languages"
+    height="180"
+  />
+</p>
+
+<br />
+
+<!-- ===================== GITHUB STREAK ===================== -->
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Md. Rakib GitHub Streak"
+  />
+</p>
+
+<br />
+
+<!-- ===================== CONNECT WITH ME ===================== -->
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+
+  <a href="https://rakib-webdev-code.github.io/About-Me/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="mailto:tamimislam100100@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/Rakib-webdev-code">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</p>
+
+<br />
+
+<!-- ===================== PINNED REPOSITORIES ===================== -->
+
+<h2>📌 Featured Projects</h2>
 
 <table>
 <tr>
 
-<td width="28%" valign="top">
+<td width="50%">
 
-<div align="center">
+<h3>🌍 About Me Portfolio</h3>
 
-<img src="https://github.com/rakib-webdev-code.png" width="180" style="border-radius:50%;" />
+<p>
+A personal portfolio website showcasing my profile,
+skills, projects, and learning journey.
+</p>
 
-# Md. Rakib
+<p>
+<b>Tech:</b> HTML • CSS • JavaScript
+</p>
 
-### `rakib-webdev-code`
-
-🚀 **Aspiring Full Stack Web Developer**
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-I'm passionate about web development and currently learning modern technologies to build fast, scalable, and user-friendly web applications.
-
----
-
-📍 Joypurhat, Rajshahi, Bangladesh
-
-📧 `tamislam100100@gmail.com`
-
-🌐 [Portfolio](https://rakib-webdev-code.github.io/About-Me/)
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/rakib-webdev-code">
-<img src="https://img.shields.io/badge/Follow-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+<a href="https://rakib-webdev-code.github.io/About-Me/">
+  🔗 Live Demo
 </a>
-
-</div>
+</p>
 
 </td>
 
-<td width="72%" valign="top">
+<td width="50%">
 
-# 🟣 ABOUT ME
-
-I'm a dedicated learner and problem solver who loves turning ideas into real-world applications.
-
-I enjoy building projects, exploring new technologies, and continuously improving my skills to become a professional Full Stack Developer.
-
----
-
-# 🚀 CURRENTLY WORKING ON
-
-- 🟢 Learning **React.js** and building modern UI
-- 🟢 Exploring **Next.js** and Server Side Rendering
-- 🟢 Practicing **TypeScript** and improving code quality
-- 🟢 Building real-world projects
-- 🟢 Improving Data Structures & Algorithms
-- 🟢 Strengthening Git & GitHub workflow
-
----
-
-# 💻 TECHNOLOGY STACK
-
-### 🎨 Frontend
+<h3>🚀 More Projects Coming Soon</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs" />
+I'm currently learning React, TypeScript and modern
+web development technologies while building real-world projects.
 </p>
 
-### ⚙️ Backend & Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🛠️ Tools & Others
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<b>Coming:</b> React • TypeScript • Tailwind CSS
 </p>
 
 </td>
@@ -109,102 +183,55 @@ I enjoy building projects, exploring new technologies, and continuously improvin
 </tr>
 </table>
 
----
+<br />
 
-# 📊 GITHUB STATS
+<!-- ===================== GOALS ===================== -->
 
-<div align="center">
+<h2>🎯 My Goals</h2>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rakib-webdev-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-webdev-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+🚀 <b>Become a Professional Full Stack Developer</b>
+<br /><br />
 
-</div>
+💻 <b>Build Real-World Projects</b>
+<br /><br />
 
-<br>
+🌍 <b>Contribute to Open Source</b>
+<br /><br />
 
-<div align="center">
+🧠 <b>Master Modern Web Technologies</b>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-webdev-code&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+</p>
 
-</div>
+<br />
 
----
+<!-- ===================== LOCATION ===================== -->
 
-# 🌐 CONNECT WITH ME
+<h2>📍 About Me</h2>
 
-<div align="center">
+<p align="center">
 
-<a href="https://rakib-webdev-code.github.io/About-Me/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-8B5CF6?style=for-the-badge" />
-</a>
+🇧🇩 <b>Joypurhat, Rajshahi, Bangladesh</b>
 
-<a href="mailto:tamislam100100@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br />
 
-<a href="https://github.com/rakib-webdev-code">
-<img src="https://img.shields.io/badge/🐙%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+📧 <b>tamimislam100100@gmail.com</b>
 
-</div>
+</p>
 
----
+<br />
 
-# 📌 PINNED REPOSITORIES
+<!-- ===================== QUOTE ===================== -->
 
-<table>
-<tr>
+<h2>💭 Developer Mindset</h2>
 
-<td width="50%" valign="top">
+<p align="center">
+  <i>
+    "Learn. Build. Improve. Repeat."
+  </i>
+</p>
 
-## 🌍 Tourism Website
-
-A responsive tourism website built with HTML, CSS and JavaScript.
-
-### 🛠️ Technologies
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/rakib-webdev-code">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ✅ Task Manager App
-
-A task management application built with React, TypeScript and Tailwind CSS.
-
-### 🛠️ Technologies
-
-`React` `TypeScript` `Tailwind CSS`
-
-<br>
-
-<a href="https://github.com/rakib-webdev-code">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🎯 MY DEVELOPMENT JOURNEY
-
-```text
-HTML & CSS                 ████████████████████ 100%
-JavaScript                 ████████████████████ 100%
-TypeScript                 ███████████████░░░░░  75%
-React.js                   ████████████░░░░░░░░  60%
-Tailwind CSS               ████████████████░░░░  80%
-Next.js                    ██████░░░░░░░░░░░░░░  30%
-Node.js                    ████░░░░░░░░░░░░░░░░  20%
-MongoDB                    ███░░░░░░░░░░░░░░░░░  15%
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
