@@ -82,13 +82,13 @@ contribute to meaningful projects and open source.
 <p align="center">
 
   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=Rakib-webdev-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Md. Rakib GitHub Stats"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-webdev-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Md. Rakib Top Languages"
     height="180"
   />
@@ -104,12 +104,11 @@ contribute to meaningful projects and open source.
 <p align="center">
 
   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib-webdev-code&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Md. Rakib GitHub Streak"
   />
 
 </p>
-
 <br />
 
 <!-- ===================== CONNECT WITH ME ===================== -->
