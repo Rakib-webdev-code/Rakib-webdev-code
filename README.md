@@ -82,13 +82,13 @@ contribute to meaningful projects and open source.
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rakib-webdev-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-stats-extended.vercel.app/api?username=Rakib-webdev-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Md. Rakib GitHub Stats"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-webdev-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Rakib-webdev-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Md. Rakib Top Languages"
     height="180"
   />
